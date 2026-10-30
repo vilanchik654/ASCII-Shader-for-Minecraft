@@ -1,0 +1,45 @@
+screen.SYMBOLS=Symbols
+screen.COLOR=Color
+screen.EFFECTS=Effects
+
+option.ASCII_DENSITY=Symbol size
+option.ASCII_DENSITY.comment=Controls glyph cell size. Smaller cells give denser text.
+value.ASCII_DENSITY.0=Very small (4x8)
+value.ASCII_DENSITY.1=Small (6x12)
+value.ASCII_DENSITY.2=Normal (8x16)
+value.ASCII_DENSITY.3=Large (10x20)
+value.ASCII_DENSITY.4=Very large (12x24)
+
+option.ASCII_CHARSET=Character set
+option.ASCII_CHARSET.comment=Choose which ASCII characters form the image.
+value.ASCII_CHARSET.0=All printable
+value.ASCII_CHARSET.1=Classic 10
+value.ASCII_CHARSET.2=Blocks
+value.ASCII_CHARSET.3=All letters
+value.ASCII_CHARSET.4=Uppercase
+value.ASCII_CHARSET.5=Lowercase
+value.ASCII_CHARSET.6=Digits
+value.ASCII_CHARSET.7=Hex/matrix
+
+option.ASCII_COLOR_MODE=Glyph color
+value.ASCII_COLOR_MODE.0=Source color
+value.ASCII_COLOR_MODE.1=Monochrome
+value.ASCII_COLOR_MODE.2=Matrix green
+value.ASCII_COLOR_MODE.3=Amber
+value.ASCII_COLOR_MODE.4=Cyan
+value.ASCII_COLOR_MODE.5=Inverted
+value.ASCII_COLOR_MODE.6=Sepia
+
+option.ASCII_BACKGROUND=Background
+value.ASCII_BACKGROUND.0=Black
+value.ASCII_BACKGROUND.1=Dark source
+value.ASCII_BACKGROUND.2=Source
+
+option.ASCII_BRIGHTNESS=Brightness
+option.ASCII_CONTRAST=Contrast
+option.ASCII_INVERT=Invert colors
+value.ASCII_INVERT.0=Off
+value.ASCII_INVERT.1=On
+option.ASCII_SCANLINES=Scanlines
+value.ASCII_SCANLINES.0=Off
+value.ASCII_SCANLINES.1=On

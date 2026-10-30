@@ -1,0 +1,45 @@
+﻿screen.SYMBOLS=Символы
+screen.COLOR=Цвет
+screen.EFFECTS=Эффекты
+
+option.ASCII_DENSITY=Размер символов
+option.ASCII_DENSITY.comment=Размер ячейки символа. Чем меньше, тем плотнее текст.
+value.ASCII_DENSITY.0=Очень мелкие (4x8)
+value.ASCII_DENSITY.1=Мелкие (6x12)
+value.ASCII_DENSITY.2=Обычные (8x16)
+value.ASCII_DENSITY.3=Крупные (10x20)
+value.ASCII_DENSITY.4=Очень крупные (12x24)
+
+option.ASCII_CHARSET=Набор символов
+option.ASCII_CHARSET.comment=Какие ASCII-символы формируют картинку.
+value.ASCII_CHARSET.0=Все печатные
+value.ASCII_CHARSET.1=Классические 10
+value.ASCII_CHARSET.2=Блоки
+value.ASCII_CHARSET.3=Все буквы
+value.ASCII_CHARSET.4=Заглавные
+value.ASCII_CHARSET.5=Строчные
+value.ASCII_CHARSET.6=Цифры
+value.ASCII_CHARSET.7=Hex/matrix
+
+option.ASCII_COLOR_MODE=Цвет символов
+value.ASCII_COLOR_MODE.0=Исходный цвет
+value.ASCII_COLOR_MODE.1=Монохром
+value.ASCII_COLOR_MODE.2=Matrix-зелёный
+value.ASCII_COLOR_MODE.3=Янтарный
+value.ASCII_COLOR_MODE.4=Циан
+value.ASCII_COLOR_MODE.5=Инверсия
+value.ASCII_COLOR_MODE.6=Сепия
+
+option.ASCII_BACKGROUND=Фон
+value.ASCII_BACKGROUND.0=Чёрный
+value.ASCII_BACKGROUND.1=Тёмный исходный
+value.ASCII_BACKGROUND.2=Исходный
+
+option.ASCII_BRIGHTNESS=Яркость
+option.ASCII_CONTRAST=Контраст
+option.ASCII_INVERT=Инвертировать цвета
+value.ASCII_INVERT.0=Выкл
+value.ASCII_INVERT.1=Вкл
+option.ASCII_SCANLINES=Сканлайны
+value.ASCII_SCANLINES.0=Выкл
+value.ASCII_SCANLINES.1=Вкл
